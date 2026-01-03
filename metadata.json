@@ -1,0 +1,5 @@
+{
+  "name": "chatflies.ai Analyst",
+  "description": "A simulation of the chatflies.ai intelligent chat analyst agent. It processes user commands to query mock chat logs, generating structured reports with summaries, action items, and decisions using the Gemini API.",
+  "requestFramePermissions": []
+}
